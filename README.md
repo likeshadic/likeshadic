@@ -53,4 +53,4 @@ A Raspberry Pi running an inference engine to detect anomalous network traffic â
 
 ## ðŸ“« Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-campbell-418544141/)
